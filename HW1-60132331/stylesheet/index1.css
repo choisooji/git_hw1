@@ -1,0 +1,10 @@
+html{
+  font: 14px "Malgun Gothic"
+}
+
+a:link {
+  color:blue;
+}
+a:visited {
+  color:darkblue;
+}

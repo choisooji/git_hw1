@@ -1,0 +1,76 @@
+html{
+  background-color: white ;
+  font: 14px "Malgun Gothic";
+  margin-left: 140px;
+}
+
+body {
+  width: 1050px;
+  height: 750px;
+  background-color: antiquewhite;
+}
+
+#navbar {width:960px; height:30px;}
+#navbar ul {margin:0;padding:0;}
+#navbar ul li {float:left;}
+#navbar ul li a{
+	color:white;
+	display:block;
+	width:160px;
+	text-align:center;
+	padding:0px 10px; 
+	font: bold 13px/30px Tahoma;
+	text-decoration:none;
+	margin-right:1px;
+}
+#navbar ul li a.selected {color: white;}
+#navbar ul li a:hover {background-color:pink;}
+#navbar ul{list-style:none;}
+
+#header-0{
+  font-size: 100px; 
+  width: 1050px;
+  height: 130px;
+  text-align: center;
+}
+#wrap-0{
+  width:1050px;
+	margin:0 auto;
+  background-color: deeppink;  
+}
+#middle{
+  margin-left: 140px;
+  margin-top: 20px;
+}
+#footer {font-size: 11px; color:#888; text-align:center;}
+
+#content1{font-size:16px; height: 50px; }
+#wrap-1 {
+  width: 1050px;
+  height: 500px;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+
+#left{float:left;}
+#right_middle a:link{color: blue;}
+#right_middle a:hover{color: red;}
+#right_middle a:visited{color: darkblue;}
+
+#wrap-2{
+  width: 1050px;
+  height: 500px;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+
+#wrap-3{
+  width: 1050px;
+  height: 500px;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+#Question{font-size: 30px; margin-left: 280px;}
+#Table{margin-left:110px;}
+
+  
